@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jia-Le Xu"
-  avatar           : "images/Photo/android-chrome-512x512.png"
+  avatar           : "images/photo/android-chrome-512x512.png"
   bio              : "Hohai University"
   location         : "Nanjing, China"
   employer         :
