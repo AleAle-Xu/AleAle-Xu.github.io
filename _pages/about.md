@@ -17,12 +17,45 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a postgraduate in [College of Computer Science & Software Engineering](https://cies.hhu.edu.cn/) at [Hohai University](https://www.hhu.edu.cn/). I am honored to be under the guidance of [Shen-Huan Lyu](https://lyushenhuan.github.io/). Before that, I received my B.Sc. degree from the School of Computer Engineering in Nanjing Institute of Technology
-in Jun.2024.
+<head>
+    <style>
+        .container {
+            display: flex;
+        }
+        .text {
+            flex: 75%;
+        }
+        .image {
+            flex: 25%;
+            display: flex;
+            justify-content: flex-end;
+        }
+    </style>
+</head>
 
-My research interest includes deep forest and the multiple optimization problems in large language models.
+[//]: # (> “People search for certainty. But there is no certainty.”  )
 
-<img src="images/hhu.svg">
+[//]: # (>)
+
+[//]: # (> “人们追寻确定性，但是确定性并不存在”  )
+
+[//]: # (>)
+
+[//]: # (> <div align="right">—— Richard Phillips Feynman</div>  )
+
+[//]: # (> <div align="right">—— 理查德·菲利普斯·费曼</div>)
+
+<body>
+    <div class="container">
+        <div class="text">
+            <p>I am a postgraduate in [College of Computer Science & Software Engineering](https://cies.hhu.edu.cn/) at [Hohai University](https://www.hhu.edu.cn/). I am honored to be under the guidance of [Shen-Huan Lyu](https://lyushenhuan.github.io/). Before that, I received my B.Sc. degree from the School of Computer Engineering in Nanjing Institute of Technology in Jun.2024.
+            My research interest includes deep forest and the multiple optimization problems in large language models. <br><br></p>
+        </div>
+        <div class="image">
+            <img src="images/hhu.svg" alt='sym' width="60%">
+        </div>
+    </div>
+</body>
 
 # 🔥 News
 
