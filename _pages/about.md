@@ -104,4 +104,4 @@ redirect_from:
 
 # 💻 Internships
 
-[//]: # (- *2019.05 - 2020.02*, [Lorem]&#40;https://github.com/&#41;, China.)
+- *2025.07 - 至今*, Algorithm Intern in [Nanjing TDH Technology Co.,Ltd.](https://www.tdhnet.com.cn/), China.
