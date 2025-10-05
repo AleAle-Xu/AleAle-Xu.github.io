@@ -104,4 +104,4 @@ redirect_from:
 
 # 💻 Internships
 
-- *2025.07 - 至今*, Algorithm Intern in [Nanjing TDH Technology Co.,Ltd.](https://www.tdhnet.com.cn/), China.
+- *2025.07 - now*, Algorithm Intern in [Nanjing TDH Technology Co.,Ltd.](https://www.tdhnet.com.cn/), China.
