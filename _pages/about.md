@@ -48,8 +48,11 @@ redirect_from:
 <body>
     <div class="container">
         <div class="text">
-            <p>I am a postgraduate in <a href='https://cies.hhu.edu.cn/'>College of Computer Science & Software Engineering</a> at <a href='https://www.hhu.edu.cn/'>Hohai University</a>. I am honored to be under the guidance of <a href="https://lyushenhuan.github.io/">Shen-Huan Lyu</a>. Before that, I received my B.Sc. degree from the School of Computer Engineering in Nanjing Institute of Technology in Jun.2024.<br><br>
-            My research interest includes deep forest and the multiple optimization problems in large language models. <br><br></p>
+            <p>I am a postgraduate in <a href='https://cies.hhu.edu.cn/'>College of Computer Science & Software Engineering</a> at <a href='https://www.hhu.edu.cn/'>Hohai University</a>. 
+            I am honored to be under the guidance of <a href="https://lyushenhuan.github.io/">Shen-Huan Lyu</a>. 
+            Before that, I received my B.Sc. degree from the School of Computer Engineering in Nanjing Institute of Technology in Jun.2024.<br><br>
+            My research interest includes deep ensemble learning in the weakly-supervised environment. Currently, my work mainly focuses on deep forest, trying to apply them in the weakly-supervised environment. 
+            At the same time, I am also exploring weakly-supervised fine-tuning and alignment within Large Language Models (LLMs), attempting to reduce human intervention during the fine-tuning and alignment processes. <br><br></p>
         </div>
         <div class="image">
             <img src="images/hhu.svg" alt='sym' width="60%">
