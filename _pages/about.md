@@ -65,7 +65,8 @@ redirect_from:
 [//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 [//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
-
+- *2025.11*: &nbsp; Our paper "Enhance and Reuse: A Dual-Mechanism Approach to Boost Deep Forest for Label Distribution Learning" is under review by ***ACM Transactions on Knowledge Discovery from Data*(TKDD)**
+- *2025.11*: &nbsp; Our paper "A Semi-Supervised Deep Forest Framework Based on Margin Distribution Optimization" is under review by ***Information Sciences*(INS)**
 # 📝 Publications 
 
 [//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>)
