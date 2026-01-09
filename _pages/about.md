@@ -75,6 +75,7 @@ redirect_from:
 
 [//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 - *2025.11*: &nbsp; Our paper "A Semi-Supervised Deep Forest Framework Based on Margin Distribution Optimization" is under review by **[*Information Sciences*(INS)](https://www.sciencedirect.com/journal/information-sciences)**
+
 [//]: # (- *2025.12*: &nbsp; Our paper "Enhance and Reuse: A Dual-Mechanism Approach to Boost Deep Forest for Label Distribution Learning" is under review by **[*ACM Transactions on Knowledge Discovery from Data*&#40;TKDD&#41;]&#40;https://dl.acm.org/journal/tkdd&#41;**)
 
 # 📝 Publications 
