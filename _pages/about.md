@@ -73,7 +73,7 @@ redirect_from:
 
 [//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
-- *2026.4*: &nbsp;🎉🎉 Our paper "Enhance and Reuse: A Dual-Mechanism Approach to Boost Deep Forest for Label Distribution Learning" is accepted by ***Pattern Recognition*(PR)**
+- *2026.4*: &nbsp;🎉🎉 Our paper **"Enhance and Reuse: A Dual-Mechanism Approach to Boost Deep Forest for Label Distribution Learning"** is accepted by ***Pattern Recognition*(PR)**
 
 # 📝 Publications 
 
