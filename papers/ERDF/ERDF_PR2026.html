@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>chen2026improving</title>
+    <script>
+        function copyText() {
+            var copyText = document.getElementById("bibtex");
+            copyText.select();
+            copyText.setSelectionRange(0, 99999); // For mobile devices
+            document.execCommand("copy");
+            alert("BibTeX has been copied!");
+        }
+    </script>
+</head>
+<body>
+    <textarea id="bibtex" rows="10" cols="150">
+@article{XU2026113817,
+title = {Enhance and reuse: A dual-mechanism approach to boost deep forest for label distribution learning},
+journal = {Pattern Recognition},
+volume = {179},
+pages = {113817},
+year = {2026},
+doi = {https://doi.org/10.1016/j.patcog.2026.113817},
+author = {Jia-Le Xu and Shen-Huan Lyu and Yu-Nian Wang and Ning Chen and Zhihao Qu and Bin Tang and Baoliu Ye},
+}
+    </textarea>
+    <br/>
+    <button onclick="copyText()">Copy</button>
+</body>
+</html>
