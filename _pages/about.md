@@ -77,13 +77,21 @@ redirect_from:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2026</div><img src='papers/ERDF/ERDF_PR2026.pdf' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">PR 2026</div>
+            <img src='papers/ERDF/ERDF_PR2026.png' alt="sym" width="100%">
+        </div>
+    </div>
+    <div class='paper-box-text' markdown="1">
 ---
-- [[PR 2026]](https://www.sciencedirect.com/science/article/pii/S003132032600782X) Enhance and Reuse: A Dual-Mechanism Approach to Boost Deep Forest for Label Distribution Learning. [[paper]](papers/ERDF/ERDF_PR2026.pdf) [[bib]](papers/ERDF_PR2026.html)<br>
+
+- [[PR 2026]](https://www.sciencedirect.com/science/article/pii/S003132032600782X) Enhance and Reuse: A Dual-Mechanism Approach to Boost Deep Forest for Label Distribution Learning. [[paper]](papers/ERDF/ERDF_PR2026.pdf) [[bib]](papers/ERDF/ERDF_PR2026.html)<br>
 **Jia-Le Xu**, Shen-Huan Lyu<sup>#</sup>, Yu-Nian Wang, Ning Chen, Zhihao Qu, Bin Tang, and Baoliu Ye. (\# indicates correspondence.)<br> 
 Pattern Recognition, 179:113817, 2026. **(CCF B, CAS Q1)**
-
+    </div>
+</div>
 
 [//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>)
 
