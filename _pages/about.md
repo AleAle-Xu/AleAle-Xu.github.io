@@ -90,7 +90,7 @@ redirect_from:
 - [[PR 2026]](https://www.sciencedirect.com/science/article/pii/S003132032600782X) Enhance and Reuse: A Dual-Mechanism Approach to Boost Deep Forest for Label Distribution Learning. [[paper]](papers/ERDF/ERDF_PR2026.pdf) [[bib]](papers/ERDF/ERDF_PR2026.html)<br>
 **Jia-Le Xu**, Shen-Huan Lyu<sup>#</sup>, Yu-Nian Wang, Ning Chen, Zhihao Qu, Bin Tang, and Baoliu Ye. (\# indicates correspondence.)<br> 
 Pattern Recognition, 179:113817, 2026. **(CCF B, CAS Q1)**
-    </div>
+</div>
 </div>
 
 # 🎖 Honors and Awards
