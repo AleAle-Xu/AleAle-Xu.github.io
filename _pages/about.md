@@ -72,7 +72,7 @@ redirect_from:
 # 🔥 News
 
 [//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
-- *2026.4*: &nbsp;🎉🎉 Our paper **"A Semi-Supervised Deep Forest Framework Based on Margin Distribution Optimization for Tabular Data"** is accepted by ***Information Sciences*(INS)**
+- *2026.5*: &nbsp;🎉🎉 Our paper **"A Semi-Supervised Deep Forest Framework Based on Margin Distribution Optimization for Tabular Data"** is accepted by ***Information Sciences*(INS)**
 
 - *2026.4*: &nbsp;🎉🎉 Our paper **"Enhance and Reuse: A Dual-Mechanism Approach to Boost Deep Forest for Label Distribution Learning"** is accepted by ***Pattern Recognition*(PR)**
 
