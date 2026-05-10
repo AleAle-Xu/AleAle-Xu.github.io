@@ -81,6 +81,22 @@ redirect_from:
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
+            <div class="badge">INS 2026</div>
+            <img src='papers/SSDF/SSDF_INS2026.png' alt="sym" width="100%">
+        </div>
+    </div>
+    <div class='paper-box-text' markdown="1">
+---
+
+- [[INS 2026]](https://www.sciencedirect.com/science/article/pii/S0020025526005463) A semi-supervised deep forest framework based on margin distribution optimization for tabular data [[paper]](papers/SSDF/SSDF_INS2026.pdf) [[bib]](papers/SSDF/SSDF_INS2026.html)<br>
+Shen-Huan Lyu, **Jia-Le Xu**, Yi-Xiao He<sup>#</sup>, Yanyan Wang, Baoliu Ye, and Qingfu Zhang. (\# indicates correspondence.)<br> 
+Information Sciences, 752:123615, 2026. **(CCF B, CAS Q2)**
+</div>
+</div>
+
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
             <div class="badge">PR 2026</div>
             <img src='papers/ERDF/ERDF_PR2026.png' alt="sym" width="100%">
         </div>
